@@ -10,6 +10,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=czy1024&show_icons=true)](https://hoochanlon.github.io/about.me/)
+
+[![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=czy1024&repo=luna-commons)](https://github.com/hoochanlon/bujo)
 <!--
 **czy1024/czy1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
