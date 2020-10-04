@@ -14,7 +14,7 @@
 ### 🏆 Github Status
 
 <a href="">
-    <p align="center">
+    <p align="left">
         <img src="https://github-profile-trophy.vercel.app/?username=czy1024"/>
     </p>
 </a>
