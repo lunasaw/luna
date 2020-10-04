@@ -4,7 +4,23 @@
 
 𝑰 ❤️ 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕!
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+<!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>-->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+### 👀 Active Repo
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=czy1024&repo=luna-commons)](https://github.com/czy1024/luna-commons)
+
+### 🏆 Github Status
+
+<a href="">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=czy1024"/>
+    </p>
+</a>
+<!-- My GitHub stats with buefy theme ❤️, refer to: https://github.com/Arshiamidos/arshiamidos -->
+
+### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
     <tbody>
@@ -52,23 +68,3 @@
         </tr>
     </tbody>
 </table>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=czy1024&show_icons=true)](https://hoochanlon.github.io/about.me/)
-
-
-<!--
-[![](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=czy1024&repo=luna-commons)](https://github.com/hoochanlon/bujo)
-
-**czy1024/czy1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
