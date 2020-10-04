@@ -9,7 +9,7 @@
 
 ### 👀 Active Repo
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=czy1024&repo=luna-commons)](https://github.com/czy1024/luna-commons)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=czy1024&repo=blog)](https://github.com/czy1024/blog)
 
 ### 🏆 Github Status
 
